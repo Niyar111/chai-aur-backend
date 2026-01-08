@@ -5,13 +5,6 @@ dotenv.config({
 import connectdb from "./db/index.js";
 connectdb();
 
-
-
-
-
-
-
-
 /*import express from "express";
 import express from "express";
 const app = express();
